@@ -12,7 +12,8 @@ Bribe Diminution In Land Registry System
 
 ## Screenshots
 
-[Screenshot]("https://drive.google.com/file/d/1fQKxdrRtnAU5f0331i9qZq4udj3Vmrur/view?usp=drivesdk")
+ 
+<img width="1280" alt="1" src="https://user-images.githubusercontent.com/92724493/200157276-0847c996-4ae5-4513-b3d2-da99ad2bc76c.png">
 
 
 ## Documentation
