@@ -1,0 +1,17 @@
+#box {
+  display: flex;
+  flex-direction: column;
+  border: 2px;
+  border-color: black;
+  align-content: center;
+  padding: 10px;
+  margin: 10px;
+}
+.heading {
+  align-items: center;
+  text-decoration: wavy;
+  font-style: italic;
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-decoration-color: darkturquoise;
+}

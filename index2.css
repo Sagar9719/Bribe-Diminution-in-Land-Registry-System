@@ -1,0 +1,11 @@
+.measure {
+    height: 100px;
+    width: 100px;
+}
+
+.msre{
+    height: 400px;
+    width: 400px;
+    border-radius: 10px;
+    object-fit: cover;
+}

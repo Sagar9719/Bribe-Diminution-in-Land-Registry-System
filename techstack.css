@@ -1,0 +1,8 @@
+.squares {
+  display: flex;
+  place-content: between;
+  border: 2px;
+  border-color: brown;
+  padding: 10px;
+  margin: 10px;
+}
